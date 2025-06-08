@@ -1,6 +1,9 @@
 # 🚧 This project is still under development 🚧
+
 # LifeLink – The Digital Bridge Between Donor and Hope
+
 LifeLink is a health-tech web platform designed to connect **donors** and **recipients** for **blood**, **plasma**, and **organ donations**. It enables **real-time donor availability**, **location-based matching**, and **AI-assisted pairing**, aiming to save lives by reducing response time and improving accessibility.
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** React Native
@@ -10,7 +13,7 @@ LifeLink is a health-tech web platform designed to connect **donors** and **reci
 - **Communication:** REST APIs, gRPC, FeignClient, Spring Cloud Gateway
 - **Authentication:** JWT, Spring Security (Auth Service only)
 - **DevOps:** Docker, Cloudflare Tunnel, GitHub Actions
----
+
 ## 📸 App Screenshots
 
 > These screenshots are from the current development build and may be altered, updated, or removed in future iterations.  
@@ -77,7 +80,6 @@ LifeLink is a health-tech web platform designed to connect **donors** and **reci
   <img src="https://github.com/user-attachments/assets/d73be18e-7679-4c19-b1da-2ac87a4ea190" width="30%" alt="logout"/>
 </p>
 
----
 ## 🎯 Features
 
 - 📍 **Location-Based Donor Matching**

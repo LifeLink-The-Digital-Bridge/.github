@@ -1,9 +1,6 @@
 # 🚧 This project is still under development 🚧
----
 # LifeLink – The Digital Bridge Between Donor and Hope
----
 LifeLink is a health-tech web platform designed to connect **donors** and **recipients** for **blood**, **plasma**, and **organ donations**. It enables **real-time donor availability**, **location-based matching**, and **AI-assisted pairing**, aiming to save lives by reducing response time and improving accessibility.
----
 ## 🛠️ Tech Stack
 
 - **Frontend:** React Native

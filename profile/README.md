@@ -30,7 +30,6 @@ LifeLink is a health-tech web platform designed to connect **donors** and **reci
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bd824c82-5aa7-4aed-b36b-b9d5827f46c8" width="30%" alt="donate"/>
-  <img src="https://github.com/user-attachments/assets/19723101-95c2-4013-a8b6-fbc46881d116" width="30%" alt="maps"/>
   <img src="https://github.com/user-attachments/assets/f03e53dd-941f-458a-b849-d87fe6426317" width="30%" alt="receive"/>
 </p>
 <p align="center">

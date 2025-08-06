@@ -5,12 +5,12 @@ LifeLink is a health-tech web platform designed to connect **donors** and **reci
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React Native
+- **Frontend:** React Native  
 - **Backend:** Spring Boot (Java), Microservices  
-- **Storage:** PostgreSQL, Redis
-- **Authentication:** JWT (JSON Web Tokens)
-- **Communication:** REST APIs, gRPC, FeignClient, Spring Cloud Gateway
-- **Authentication:** JWT, Spring Security (Auth Service only)
+- **Storage:** PostgreSQL, Redis  
+- **Authentication:** JWT (JSON Web Tokens), Spring Security (Auth Service only)  
+- **Communication:** REST APIs, gRPC, FeignClient, Spring Cloud Gateway  
+- **Messaging:** Apache Kafka (for asynchronous event-driven communication between microservices)  
 - **DevOps:** Docker, Cloudflare Tunnel, GitHub Actions
 
 ## 📸 App Screenshots

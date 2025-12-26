@@ -1,35 +1,100 @@
-## LifeLink – The Digital Bridge Between Donor and Hope
+# 🩸 LifeLink – The Digital Bridge Between Donor and Hope
 
-LifeLink is a health-tech web platform designed to connect **donors** and **recipients** for **blood**, **plasma**, and **organ donations**. It enables **real-time donor availability**, **location-based matching**, and **AI-assisted pairing**, aiming to save lives by reducing response time and improving accessibility. 
-> **This project is still under development**
+LifeLink is a **health-tech web platform** designed to connect **donors** and **recipients** for **blood, plasma, and organ donations**.  
+The platform focuses on **real-time donor availability**, **location-based matching**, and **AI-assisted pairing** to reduce response time and improve accessibility—ultimately saving lives.
+
+> 🚧 **Project Status:** Under Active Development
+
+---
+
+## 📌 Problem Statement
+
+In emergency medical situations, finding a compatible donor quickly is often difficult due to:
+- Lack of real-time donor availability
+- Manual coordination delays
+- Poor accessibility to verified donor data
+
+LifeLink addresses these challenges by providing a **centralized, intelligent, and scalable digital solution**.
+
+---
+
+## 🎯 Objectives
+
+- Enable fast donor–recipient matching
+- Reduce response time during emergencies
+- Provide secure and reliable access to donor data
+- Support multiple donation types on a single platform
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React Native  
-- **Backend:** Spring Boot (Java), Microservices  
-- **Storage:** PostgreSQL, Redis  
-- **Authentication:** JWT (JSON Web Tokens), Spring Security (Auth Service only)  
-- **Communication:** REST APIs, gRPC, FeignClient, Spring Cloud Gateway  
-- **Messaging:** Apache Kafka (for asynchronous event-driven communication between microservices)  
-- **DevOps:** Docker, Cloudflare Tunnel, GitHub Actions
+### Frontend
+- React Native
 
-## 📸 App Screenshots
+### Backend
+- Spring Boot (Java)
+- Microservices Architecture
 
-> These screenshots are from the current development build and may be altered, updated, or removed in future iterations.  
-> **Note:** The UI shown below is **not final** and will undergo further changes before the official release.
+### Database & Cache
+- PostgreSQL
+- Redis
 
-[![Watch Demo](https://img.shields.io/badge/🎥-Watch%20Demo-red?style=for-the-badge)](https://drive.google.com/file/d/19hXsAGJeCO1ErW-OiuyNvffAUi0zn17_/view)
+### Authentication & Security
+- JWT (JSON Web Tokens)
+- Spring Security *(Auth Service only)*
 
-## 🎯 Features
+### Communication
+- REST APIs
+- gRPC
+- Feign Client
+- Spring Cloud Gateway
 
-- 📍 **Location-Based Donor Matching**
-- 🤖 **AI-Powered Smart Matching**
-- 🩸 **Multi-Type Donation Support** (Blood, Plasma, Organs)
-- 🗂️ **Detailed Donation and Recipient History**
-- 🔐 **JWT Authentication with OTP Login & Forgot Password**
-- 📱 **Cross-Platform Mobile App with React Native**
-- 🧠 **AI Chatbot Integration** *(Planned)*
-- 📦 **Dockerized Microservices**
-- 🔁 **Event-Driven Communication (Kafka planned)**
-- 🧾 **Role-Based Access Control via AOP Annotations**
-- 🛡️ **API Gateway for Central Routing & Security**
+### Messaging
+- Apache Kafka *(Event-driven communication)*
+
+### DevOps & Deployment
+- Docker
+- Cloudflare Tunnel
+- GitHub Actions (CI/CD)
+
+---
+
+## 📱 Features
+
+- 📍 Location-Based Donor Matching
+- 🤖 AI-Powered Smart Matching *(Planned)*
+- 🩸 Support for Blood, Plasma, and Organ Donation
+- 🗂️ Donor & Recipient History Management
+- 🔐 Secure Authentication with OTP & Forgot Password
+- 📱 Cross-Platform Mobile Application
+- 🧠 AI Chatbot Assistance *(Planned)*
+- 🔁 Event-Driven Microservices using Kafka
+- 🧾 Role-Based Access Control (RBAC)
+- 🛡️ Centralized API Gateway for Routing & Security
+
+---
+
+## 🧩 System Architecture
+
+- Microservice-based architecture
+- Separate services for:
+  - Authentication
+  - Donor Management
+  - Recipient Management
+  - Matching Service
+  - Notification Service *(Planned)*
+- API Gateway for request routing and security
+- Kafka for asynchronous communication
+
+---
+
+## 📸 Demo & Presentation
+
+### 🎥 Application Demo  
+https://drive.google.com/file/d/19hXsAGJeCO1ErW-OiuyNvffAUi0zn17_/view
+
+### 🎤 Project Presentation  
+https://youtu.be/eM6tniPAzJ8?si=-RUSFBi0EMMUBxjw
+
+---

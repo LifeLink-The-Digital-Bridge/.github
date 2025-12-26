@@ -5,7 +5,7 @@
     width="220"
   />
 </p>
-LifeLink – The Digital Bridge Between Donor and Hope
+# 🩸 LifeLink – The Digital Bridge Between Donor and Hope
 
 LifeLink is a **health-tech platform** that connects **donors** and **recipients** for **blood, plasma, and organ donations**.  
 It uses **location awareness**, **real-time availability**, and a **hybrid AI-based matching system** to reduce emergency response time and improve accessibility.

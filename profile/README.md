@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="LifeLink/assets/images/Lifelink_splash.png" alt="LifeLink Logo" width="200"/>
-</p>
-
-# 🩸 LifeLink – The Digital Bridge Between Donor and Hope
+# <img width="1599" height="1244" alt="Lifelink_splash" src="https://github.com/user-attachments/assets/fec24cac-2c81-499c-9408-91908d6bab2a" />
+ LifeLink – The Digital Bridge Between Donor and Hope
 
 LifeLink is a **health-tech platform** that connects **donors** and **recipients** for **blood, plasma, and organ donations**.  
 It uses **location awareness**, **real-time availability**, and a **hybrid AI-based matching system** to reduce emergency response time and improve accessibility.

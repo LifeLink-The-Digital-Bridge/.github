@@ -132,7 +132,7 @@ This combination ensures **accuracy, fairness, and reliability**.
 ## 📸 Demo & Presentation
 
 ### 🎥 Application Demo  
-https://drive.google.com/file/d/19hXsAGJeCO1ErW-OiuyNvffAUi0zn17_/view
+https://drive.google.com/file/d/1KqJp6bXnV086TV6FVBu25VmF8jhKECK3/view?usp=sharing
 
 ### 🎤 Project Presentation  
 https://youtu.be/eM6tniPAzJ8?si=-RUSFBi0EMMUBxjw

@@ -138,11 +138,3 @@ https://drive.google.com/file/d/1KqJp6bXnV086TV6FVBu25VmF8jhKECK3/view?usp=shari
 https://youtu.be/eM6tniPAzJ8?si=-RUSFBi0EMMUBxjw
 
 ---
-
-## 🚀 Basic Setup (Frontend)
-
-```bash
-npm install -g expo-cli
-cd frontend
-npm install
-expo start

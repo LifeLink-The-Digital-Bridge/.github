@@ -121,10 +121,10 @@ This combination ensures **accuracy, fairness, and reliability**.
   - Donor Service
   - Recipient Service
   - Matching Service (ML + Rules)
-  - Notification Service *(Planned)*
+  - Notification Service
 - API Gateway for routing & security
 - Kafka for async communication
-- Python ML service integrated via REST/gRPC
+- Python ML service integrated via REST
 
 ---
 

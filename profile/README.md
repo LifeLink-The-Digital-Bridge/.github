@@ -71,8 +71,7 @@ LifeLink solves this using **automation, AI, and scalable microservices**.
 
 ### DevOps & Deployment
 - Docker
-- Cloudflare Tunnel
-- GitHub Actions (CI/CD)
+- ngrok
 
 ---
 
